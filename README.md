@@ -79,7 +79,17 @@ Com a implantação da plataforma, o fluxo de trabalho será otimizado:
 4. A escala de trabalho será gerenciada digitalmente.
 5. Os funcionários receberão notificações automáticas sobre suas alocações.
 
+![image](https://github.com/user-attachments/assets/8020a32d-a1aa-4951-9e4d-2de6bbffebfe)
+
+Imagem 2: Diagrama BPMN “To be”
+
+
 ### 2.2 Diagrama de Classes de Domínio
+
+![image](https://github.com/user-attachments/assets/4f6feec8-fbea-41dd-8586-e16f11faf16f)
+
+Imagem 3: Diagrama de Classe e Domínio
+
 | **Nome da Classe** | **Descrição** |
 |---|---|
 | **Supervisor** | Gerencia o sistema e as alocações. |
