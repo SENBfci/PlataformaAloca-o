@@ -52,6 +52,12 @@ Atualmente, a gestão da alocação de funcionários ocorre da seguinte forma:
 3. Mudanças de turno ocorrem sem planejamento adequado.
 4. O registro de horas trabalhadas é manual e propenso a erros.
 
+![image](https://github.com/user-attachments/assets/7e4092bc-c2f8-4f67-a487-6297042f530c)
+
+Imagem 1: Diagrama BPMN “As is”
+
+
+
 ---
 
 ## 2. Contexto de Negócio e Processos
