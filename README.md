@@ -1,5 +1,3 @@
-# PlataformaAloca-o
-
 # Plataforma de Gerenciamento e Alocação de Funcionários no Centro de Triagem de Logística
 
 ## Faculdade de Computação e Informática  
